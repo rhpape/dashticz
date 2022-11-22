@@ -143,7 +143,7 @@ omrin                   Leeuwarden, Opsterland, Heerenveen, Waadhoeke, ...
 purmerend               Purmerend (NL)
 rd4                     RD4: Beekdaelen, Brunssum, Eijsden-Margraten, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, Simpelveld, Vaals en Voerendaal
 recycleapp              RecycleApp (BE)
-rmn                     RMN: Baarn, Zeist, Nieuwegein,  (NL)  
+rmn                     RMN: Baarn, Zeist, Nieuwegein, IJsselstein (NL)  
 rova                    Rova (NL)
 suez                    Suez: Arnhem (NL)  
 sudwestfryslan          Sudwest Fryslan (NL)  
